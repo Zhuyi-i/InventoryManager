@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 5b81c442c3de6c648a3098fbece15eab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6124042402440742710
+    second: weapon_chart_no_background_0
+  - first:
+      213: -2446542655785473167
+    second: weapon_chart_no_background_1
+  - first:
+      213: -2748049231979118474
+    second: weapon_chart_no_background_2
+  - first:
+      213: 3616829296044408465
+    second: weapon_chart_no_background_3
+  - first:
+      213: 8741706967740719747
+    second: weapon_chart_no_background_4
+  - first:
+      213: 5434293570725945714
+    second: weapon_chart_no_background_5
+  - first:
+      213: 4447525467965182644
+    second: weapon_chart_no_background_6
+  - first:
+      213: -8475536213921737483
+    second: weapon_chart_no_background_7
+  - first:
+      213: -1539361564655230985
+    second: weapon_chart_no_background_8
+  - first:
+      213: 9204509058668221690
+    second: weapon_chart_no_background_9
+  - first:
+      213: -8462928846367980535
+    second: weapon_chart_no_background_10
+  - first:
+      213: -8811195529128178328
+    second: weapon_chart_no_background_11
+  - first:
+      213: 8817499321166348609
+    second: weapon_chart_no_background_12
+  - first:
+      213: -5418486552271879115
+    second: weapon_chart_no_background_13
+  - first:
+      213: 3948566040831787093
+    second: weapon_chart_no_background_14
+  - first:
+      213: 7017992020199407758
+    second: weapon_chart_no_background_15
+  - first:
+      213: -7630013157255979282
+    second: weapon_chart_no_background_16
+  - first:
+      213: -3023318458092560122
+    second: weapon_chart_no_background_17
+  - first:
+      213: -1015567796083795917
+    second: weapon_chart_no_background_18
+  - first:
+      213: -8911624470520277489
+    second: weapon_chart_no_background_19
+  - first:
+      213: -6202268158180236435
+    second: weapon_chart_no_background_20
+  - first:
+      213: 1985953791020713220
+    second: weapon_chart_no_background_21
+  - first:
+      213: -4022159964699988632
+    second: weapon_chart_no_background_22
+  - first:
+      213: -6290029886335206439
+    second: weapon_chart_no_background_23
+  - first:
+      213: -3370611969570769167
+    second: weapon_chart_no_background_24
+  - first:
+      213: 8622640376287187808
+    second: weapon_chart_no_background_25
+  - first:
+      213: -5788060645261126151
+    second: weapon_chart_no_background_26
+  - first:
+      213: 2991630770644351961
+    second: weapon_chart_no_background_27
+  - first:
+      213: 6173413195727969158
+    second: weapon_chart_no_background_28
+  - first:
+      213: 3109431306999865598
+    second: weapon_chart_no_background_29
+  - first:
+      213: 465475176495891370
+    second: weapon_chart_no_background_30
+  - first:
+      213: -6376127201573880194
+    second: weapon_chart_no_background_31
+  - first:
+      213: 1670571210748416275
+    second: weapon_chart_no_background_32
+  - first:
+      213: 2719181173139350413
+    second: weapon_chart_no_background_33
+  - first:
+      213: 685463804217546816
+    second: weapon_chart_no_background_34
+  - first:
+      213: 5165415893137396917
+    second: weapon_chart_no_background_35
+  - first:
+      213: -2842160837747712031
+    second: weapon_chart_no_background_36
+  - first:
+      213: -8276245166745754233
+    second: weapon_chart_no_background_37
+  - first:
+      213: -2548803022175389883
+    second: weapon_chart_no_background_38
+  - first:
+      213: -1804080779863398511
+    second: weapon_chart_no_background_39
+  - first:
+      213: -2344099433033647019
+    second: weapon_chart_no_background_40
+  - first:
+      213: -286348085329273165
+    second: weapon_chart_no_background_41
+  - first:
+      213: -5797746376908273351
+    second: weapon_chart_no_background_42
+  - first:
+      213: 130290943089571521
+    second: weapon_chart_no_background_43
+  - first:
+      213: -3126303688208669118
+    second: weapon_chart_no_background_44
+  - first:
+      213: -5749075637103029804
+    second: weapon_chart_no_background_45
+  - first:
+      213: 2617324532947826732
+    second: weapon_chart_no_background_46
+  - first:
+      213: -2450833928919070895
+    second: weapon_chart_no_background_47
+  - first:
+      213: -1547111614002908962
+    second: weapon_chart_no_background_48
+  - first:
+      213: -3338087055519632376
+    second: weapon_chart_no_background_49
+  - first:
+      213: 6789797245535007388
+    second: weapon_chart_no_background_50
+  - first:
+      213: -3266532409074427886
+    second: weapon_chart_no_background_51
+  - first:
+      213: -7496777218709909029
+    second: weapon_chart_no_background_52
+  - first:
+      213: -6476603999405208644
+    second: weapon_chart_no_background_53
+  - first:
+      213: 365768999978872881
+    second: weapon_chart_no_background_54
+  - first:
+      213: -6218147575868217525
+    second: weapon_chart_no_background_55
+  - first:
+      213: 7793391336942034536
+    second: weapon_chart_no_background_56
+  - first:
+      213: -4001738764324997391
+    second: weapon_chart_no_background_57
+  - first:
+      213: 286710270300719010
+    second: weapon_chart_no_background_58
+  - first:
+      213: 2691293075950544748
+    second: weapon_chart_no_background_59
+  - first:
+      213: -3762963751701645321
+    second: weapon_chart_no_background_60
+  - first:
+      213: -4284124177139044400
+    second: weapon_chart_no_background_61
+  - first:
+      213: -8797276203647220838
+    second: weapon_chart_no_background_62
+  - first:
+      213: 7034590974017874191
+    second: weapon_chart_no_background_63
+  - first:
+      213: -4815040158721048033
+    second: weapon_chart_no_background_64
+  - first:
+      213: 3736458317158329748
+    second: weapon_chart_no_background_65
+  - first:
+      213: 4174562664329685126
+    second: weapon_chart_no_background_66
+  - first:
+      213: -2722151603379943719
+    second: weapon_chart_no_background_67
+  - first:
+      213: 2664667083970449479
+    second: weapon_chart_no_background_68
+  - first:
+      213: -4906324927346428633
+    second: weapon_chart_no_background_69
+  - first:
+      213: -2878972010924321056
+    second: weapon_chart_no_background_70
+  - first:
+      213: 8604109409113848297
+    second: weapon_chart_no_background_71
+  - first:
+      213: -5442126775227103202
+    second: weapon_chart_no_background_72
+  - first:
+      213: 3401024177301646751
+    second: weapon_chart_no_background_73
+  - first:
+      213: 5652115166263580668
+    second: weapon_chart_no_background_74
+  - first:
+      213: 955428432176783501
+    second: weapon_chart_no_background_75
+  - first:
+      213: 8861135699875901778
+    second: weapon_chart_no_background_76
+  - first:
+      213: -3031337288605766465
+    second: weapon_chart_no_background_77
+  - first:
+      213: -5505442781878382030
+    second: weapon_chart_no_background_78
+  - first:
+      213: -4587164092643654668
+    second: weapon_chart_no_background_79
+  - first:
+      213: -4451834193817310858
+    second: weapon_chart_no_background_80
+  - first:
+      213: 6801321398735756263
+    second: weapon_chart_no_background_81
+  - first:
+      213: -4370284360738683654
+    second: weapon_chart_no_background_82
+  - first:
+      213: 8794075159494193055
+    second: weapon_chart_no_background_83
+  - first:
+      213: -7938176737360382863
+    second: weapon_chart_no_background_84
+  - first:
+      213: -6482084921324541238
+    second: weapon_chart_no_background_85
+  - first:
+      213: 7698611943183481765
+    second: weapon_chart_no_background_86
+  - first:
+      213: 5117289347503598526
+    second: weapon_chart_no_background_87
+  - first:
+      213: -6430047732974266303
+    second: weapon_chart_no_background_88
+  - first:
+      213: 1557462946824571592
+    second: weapon_chart_no_background_89
+  - first:
+      213: -5989430598981393349
+    second: weapon_chart_no_background_90
+  - first:
+      213: -7134597377412513912
+    second: weapon_chart_no_background_91
+  - first:
+      213: -4367575448442020358
+    second: weapon_chart_no_background_92
+  - first:
+      213: 6797273099461062873
+    second: weapon_chart_no_background_93
+  - first:
+      213: -1498301832540593034
+    second: weapon_chart_no_background_94
+  - first:
+      213: 3220982055993684254
+    second: weapon_chart_no_background_95
+  - first:
+      213: 1199442026124673166
+    second: weapon_chart_no_background_96
+  - first:
+      213: -8643755277990298629
+    second: weapon_chart_no_background_97
+  - first:
+      213: -533465702914293849
+    second: weapon_chart_no_background_98
+  - first:
+      213: -5552869281586515625
+    second: weapon_chart_no_background_99
+  - first:
+      213: 3769645042223055549
+    second: weapon_chart_no_background_100
+  - first:
+      213: -7747758628932423206
+    second: weapon_chart_no_background_101
+  - first:
+      213: -5766356910107043818
+    second: weapon_chart_no_background_102
+  - first:
+      213: 8111394662881547237
+    second: weapon_chart_no_background_103
+  - first:
+      213: -2251074676871008864
+    second: weapon_chart_no_background_104
+  - first:
+      213: -8905936705389258713
+    second: weapon_chart_no_background_105
+  - first:
+      213: 6139558739562350487
+    second: weapon_chart_no_background_106
+  - first:
+      213: 7252330338184603354
+    second: weapon_chart_no_background_107
+  - first:
+      213: -2896985983976517291
+    second: weapon_chart_no_background_108
+  - first:
+      213: -6449826776887678930
+    second: weapon_chart_no_background_109
+  - first:
+      213: 875594883467501786
+    second: weapon_chart_no_background_110
+  - first:
+      213: 4566507508549390633
+    second: weapon_chart_no_background_111
+  - first:
+      213: -463413792541605000
+    second: weapon_chart_no_background_112
+  - first:
+      213: -5523926608433967749
+    second: weapon_chart_no_background_113
+  - first:
+      213: -6116741523283243602
+    second: weapon_chart_no_background_114
+  - first:
+      213: -4065173209183008059
+    second: weapon_chart_no_background_115
+  - first:
+      213: 5891921072086941881
+    second: weapon_chart_no_background_116
+  - first:
+      213: -6289308794136255495
+    second: weapon_chart_no_background_117
+  - first:
+      213: 248478624953208605
+    second: weapon_chart_no_background_118
+  - first:
+      213: 2451630518092917912
+    second: weapon_chart_no_background_119
+  - first:
+      213: 5936207529363119744
+    second: weapon_chart_no_background_120
+  - first:
+      213: 7279342660115762437
+    second: weapon_chart_no_background_121
+  - first:
+      213: -2296449126598478474
+    second: weapon_chart_no_background_122
+  - first:
+      213: 5432570810427496866
+    second: weapon_chart_no_background_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_chart_no_background_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8f61da1e7030ba0800000000000000
+      internalID: -6124042402440742710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be01aba622c0ed0800000000000000
+      internalID: -2446542655785473167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670899688c7fcd9d0800000000000000
+      internalID: -2748049231979118474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef3fbf41f813230800000000000000
+      internalID: 3616829296044408465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822ebeeb28c05970800000000000000
+      internalID: 8741706967740719747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2712f40e53d7a6b40800000000000000
+      internalID: 5434293570725945714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2519f59d8c8bd30800000000000000
+      internalID: 4447525467965182644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f45c3008b8d06a80800000000000000
+      internalID: -8475536213921737483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd5d510d613aae0800000000000000
+      internalID: -1539361564655230985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d8c5a83cfcbf70800000000000000
+      internalID: 9204509058668221690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90484d08d03ad8a80800000000000000
+      internalID: -8462928846367980535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0ec7995858b580800000000000000
+      internalID: -8811195529128178328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414e5d5aec0e5a70800000000000000
+      internalID: 8817499321166348609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5348a97603badc4b0800000000000000
+      internalID: -5418486552271879115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55003fbc4ef1cc630800000000000000
+      internalID: 3948566040831787093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8003883f8ae46160800000000000000
+      internalID: 7017992020199407758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5332857fbc1690800000000000000
+      internalID: -7630013157255979282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e28e61e30b06d0800000000000000
+      internalID: -3023318458092560122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338591d587af7e1f0800000000000000
+      internalID: -1015567796083795917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d5f682cc835480800000000000000
+      internalID: -8911624470520277489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6363fd98fd1de9a0800000000000000
+      internalID: -6202268158180236435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405412e63768f8b10800000000000000
+      internalID: 1985953791020713220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d624a82da6e28c0800000000000000
+      internalID: -4022159964699988632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db3666f42355b8a0800000000000000
+      internalID: -6290029886335206439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6fd0e954e2931d0800000000000000
+      internalID: -3370611969570769167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063d98eccb5c9a770800000000000000
+      internalID: 8622640376287187808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5dac4728dacafa0800000000000000
+      internalID: -5788060645261126151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7267e558648920800000000000000
+      internalID: 2991630770644351961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b1317e79e5ca550800000000000000
+      internalID: 6173413195727969158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a43b9c4be62b20800000000000000
+      internalID: 3109431306999865598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ccc2f433b57600800000000000000
+      internalID: 465475176495891370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ebb73a7127387a0800000000000000
+      internalID: -6376127201573880194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31157a44aaf0f2710800000000000000
+      internalID: 1670571210748416275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a6e0ced87cb520800000000000000
+      internalID: 2719181173139350413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04856ccb2b1438900800000000000000
+      internalID: 685463804217546816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b49c93236e3fa740800000000000000
+      internalID: 5165415893137396917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 145
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef5587c6cd9e88d0800000000000000
+      internalID: -2842160837747712031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785631aceded42d80800000000000000
+      internalID: -8276245166745754233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473bccc725d0acd0800000000000000
+      internalID: -2548803022175389883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e122d61e96f6e0800000000000000
+      internalID: -1804080779863398511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb5d73cf5187fd0800000000000000
+      internalID: -2344099433033647019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 129
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed5dbfeefa60cf0800000000000000
+      internalID: -286348085329273165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939039253644a8fa0800000000000000
+      internalID: -5797746376908273351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6fd442ce2eec100800000000000000
+      internalID: 130290943089571521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24624540c532d94d0800000000000000
+      internalID: -3126303688208669118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11f9ffa2e2730b0800000000000000
+      internalID: -5749075637103029804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283548abca925420800000000000000
+      internalID: 2617324532947826732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157cd47d683ecfdd0800000000000000
+      internalID: -2450833928919070895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b97b1f2e878ae0800000000000000
+      internalID: -1547111614002908962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8043c6a428bbca1d0800000000000000
+      internalID: -3338087055519632376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c923a05fe943a3e50800000000000000
+      internalID: 6789797245535007388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 113
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21851dda412faa2d0800000000000000
+      internalID: -3266532409074427886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd11e86d6d816f790800000000000000
+      internalID: -7496777218709909029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb04902afa7e16a0800000000000000
+      internalID: -6476603999405208644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1303791b7f8731500800000000000000
+      internalID: 365768999978872881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472b6399b3b4b9a0800000000000000
+      internalID: -6218147575868217525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e590a3120b72c60800000000000000
+      internalID: 7793391336942034536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f67f74cbc7f678c0800000000000000
+      internalID: -4001738764324997391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70bb6c8799af300800000000000000
+      internalID: 286710270300719010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6720822bc4695520800000000000000
+      internalID: 2691293075950544748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7f625a76447cbc0800000000000000
+      internalID: -3762963751701645321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 113
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfe6f752cbbb84c0800000000000000
+      internalID: -4284124177139044400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934c9a17ebc9e580800000000000000
+      internalID: -8797276203647220838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0921825833ef9160800000000000000
+      internalID: 7034590974017874191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f120130ac7a8d2db0800000000000000
+      internalID: -4815040158721048033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da648fa019ad330800000000000000
+      internalID: 3736458317158329748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688aafb10a60fe930800000000000000
+      internalID: 4174562664329685126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d647cf0a89f83ad0800000000000000
+      internalID: -2722151603379943719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7401cb8489ccaf420800000000000000
+      internalID: 2664667083970449479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253fd0397b39ebb0800000000000000
+      internalID: -4906324927346428633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e65092a536db08d0800000000000000
+      internalID: -2878972010924321056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b3dacbefe76770800000000000000
+      internalID: 8604109409113848297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1842f3188ea974b0800000000000000
+      internalID: -5442126775227103202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6498487dd23f20800000000000000
+      internalID: 3401024177301646751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf71dba2cc8507e40800000000000000
+      internalID: 5652115166263580668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a434d81d524d00800000000000000
+      internalID: 955428432176783501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_76
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251b2a188f319fa70800000000000000
+      internalID: 8861135699875901778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbce146fbc68ee5d0800000000000000
+      internalID: -3031337288605766465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23296ee75fcb893b0800000000000000
+      internalID: -5505442781878382030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f34c83cf8e1750c0800000000000000
+      internalID: -4587164092643654668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679e4963368e732c0800000000000000
+      internalID: -4451834193817310858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb58e6f6c5236e50800000000000000
+      internalID: 6801321398735756263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c9b65781a953c0800000000000000
+      internalID: -4370284360738683654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fecb9b3c4da0a70800000000000000
+      internalID: 8794075159494193055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1747d5dc05ee5d190800000000000000
+      internalID: -7938176737360382863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae88c8b120b06a0800000000000000
+      internalID: -6482084921324541238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abf709f5c6f6da60800000000000000
+      internalID: 7698611943183481765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba7da8c83440740800000000000000
+      internalID: 5117289347503598526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148534b97a1e3c6a0800000000000000
+      internalID: -6430047732974266303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cacf406c483d9510800000000000000
+      internalID: 1557462946824571592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_90
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34ebd48a9441eca0800000000000000
+      internalID: -5989430598981393349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb4e76c71dcfc90800000000000000
+      internalID: -7134597377412513912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd55e125414363c0800000000000000
+      internalID: -4367575448442020358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_93
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f1b6ded3c45e50800000000000000
+      internalID: 6797273099461062873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_94
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674e911fb66f43be0800000000000000
+      internalID: -1498301832540593034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11396b4d1a33bc20800000000000000
+      internalID: 3220982055993684254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8006d7fa2645a010800000000000000
+      internalID: 1199442026124673166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbfaf90f563b0880800000000000000
+      internalID: -8643755277990298629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 32
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af70f505cfb898f0800000000000000
+      internalID: -533465702914293849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7517bda0fce30f2b0800000000000000
+      internalID: -5552869281586515625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db284078138705430800000000000000
+      internalID: 3769645042223055549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f30d839e6a7490800000000000000
+      internalID: -7747758628932423206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61853f411f8c9ffa0800000000000000
+      internalID: -5766356910107043818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3dd0a4876719070800000000000000
+      internalID: 8111394662881547237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_104
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade932128392c0e0800000000000000
+      internalID: -2251074676871008864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728192b80c1c76480800000000000000
+      internalID: -8905936705389258713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79742451528143550800000000000000
+      internalID: 6139558739562350487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad62841a40475a460800000000000000
+      internalID: 7252330338184603354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5515bc1b896dbc7d0800000000000000
+      internalID: -2896985983976517291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_109
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28aec418bc9d76a0800000000000000
+      internalID: -6449826776887678930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0ea3c48ecb62c00800000000000000
+      internalID: 875594883467501786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_111
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9219d37726e7f5f30800000000000000
+      internalID: 4566507508549390633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738a876c9f9199f0800000000000000
+      internalID: -463413792541605000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d07f244021753b0800000000000000
+      internalID: -5523926608433967749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead02d11ef7fc1ba0800000000000000
+      internalID: -6116741523283243602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_115
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca4634218a9597c0800000000000000
+      internalID: -4065173209183008059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b081629ffe44c150800000000000000
+      internalID: 5891921072086941881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a4c259f2e7b8a0800000000000000
+      internalID: -6289308794136255495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0d9e2ef5c27300800000000000000
+      internalID: 248478624953208605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6f6787f0f50220800000000000000
+      internalID: 2451630518092917912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e10bceb45a16250800000000000000
+      internalID: 5936207529363119744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0c8ee49b650560800000000000000
+      internalID: 7279342660115762437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675775cbfaf5120e0800000000000000
+      internalID: -2296449126598478474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_chart_no_background_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9dfac7e5e546b40800000000000000
+      internalID: 5432570810427496866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      weapon_chart_no_background_0: -6124042402440742710
+      weapon_chart_no_background_1: -2446542655785473167
+      weapon_chart_no_background_10: -8462928846367980535
+      weapon_chart_no_background_100: 3769645042223055549
+      weapon_chart_no_background_101: -7747758628932423206
+      weapon_chart_no_background_102: -5766356910107043818
+      weapon_chart_no_background_103: 8111394662881547237
+      weapon_chart_no_background_104: -2251074676871008864
+      weapon_chart_no_background_105: -8905936705389258713
+      weapon_chart_no_background_106: 6139558739562350487
+      weapon_chart_no_background_107: 7252330338184603354
+      weapon_chart_no_background_108: -2896985983976517291
+      weapon_chart_no_background_109: -6449826776887678930
+      weapon_chart_no_background_11: -8811195529128178328
+      weapon_chart_no_background_110: 875594883467501786
+      weapon_chart_no_background_111: 4566507508549390633
+      weapon_chart_no_background_112: -463413792541605000
+      weapon_chart_no_background_113: -5523926608433967749
+      weapon_chart_no_background_114: -6116741523283243602
+      weapon_chart_no_background_115: -4065173209183008059
+      weapon_chart_no_background_116: 5891921072086941881
+      weapon_chart_no_background_117: -6289308794136255495
+      weapon_chart_no_background_118: 248478624953208605
+      weapon_chart_no_background_119: 2451630518092917912
+      weapon_chart_no_background_12: 8817499321166348609
+      weapon_chart_no_background_120: 5936207529363119744
+      weapon_chart_no_background_121: 7279342660115762437
+      weapon_chart_no_background_122: -2296449126598478474
+      weapon_chart_no_background_123: 5432570810427496866
+      weapon_chart_no_background_13: -5418486552271879115
+      weapon_chart_no_background_14: 3948566040831787093
+      weapon_chart_no_background_15: 7017992020199407758
+      weapon_chart_no_background_16: -7630013157255979282
+      weapon_chart_no_background_17: -3023318458092560122
+      weapon_chart_no_background_18: -1015567796083795917
+      weapon_chart_no_background_19: -8911624470520277489
+      weapon_chart_no_background_2: -2748049231979118474
+      weapon_chart_no_background_20: -6202268158180236435
+      weapon_chart_no_background_21: 1985953791020713220
+      weapon_chart_no_background_22: -4022159964699988632
+      weapon_chart_no_background_23: -6290029886335206439
+      weapon_chart_no_background_24: -3370611969570769167
+      weapon_chart_no_background_25: 8622640376287187808
+      weapon_chart_no_background_26: -5788060645261126151
+      weapon_chart_no_background_27: 2991630770644351961
+      weapon_chart_no_background_28: 6173413195727969158
+      weapon_chart_no_background_29: 3109431306999865598
+      weapon_chart_no_background_3: 3616829296044408465
+      weapon_chart_no_background_30: 465475176495891370
+      weapon_chart_no_background_31: -6376127201573880194
+      weapon_chart_no_background_32: 1670571210748416275
+      weapon_chart_no_background_33: 2719181173139350413
+      weapon_chart_no_background_34: 685463804217546816
+      weapon_chart_no_background_35: 5165415893137396917
+      weapon_chart_no_background_36: -2842160837747712031
+      weapon_chart_no_background_37: -8276245166745754233
+      weapon_chart_no_background_38: -2548803022175389883
+      weapon_chart_no_background_39: -1804080779863398511
+      weapon_chart_no_background_4: 8741706967740719747
+      weapon_chart_no_background_40: -2344099433033647019
+      weapon_chart_no_background_41: -286348085329273165
+      weapon_chart_no_background_42: -5797746376908273351
+      weapon_chart_no_background_43: 130290943089571521
+      weapon_chart_no_background_44: -3126303688208669118
+      weapon_chart_no_background_45: -5749075637103029804
+      weapon_chart_no_background_46: 2617324532947826732
+      weapon_chart_no_background_47: -2450833928919070895
+      weapon_chart_no_background_48: -1547111614002908962
+      weapon_chart_no_background_49: -3338087055519632376
+      weapon_chart_no_background_5: 5434293570725945714
+      weapon_chart_no_background_50: 6789797245535007388
+      weapon_chart_no_background_51: -3266532409074427886
+      weapon_chart_no_background_52: -7496777218709909029
+      weapon_chart_no_background_53: -6476603999405208644
+      weapon_chart_no_background_54: 365768999978872881
+      weapon_chart_no_background_55: -6218147575868217525
+      weapon_chart_no_background_56: 7793391336942034536
+      weapon_chart_no_background_57: -4001738764324997391
+      weapon_chart_no_background_58: 286710270300719010
+      weapon_chart_no_background_59: 2691293075950544748
+      weapon_chart_no_background_6: 4447525467965182644
+      weapon_chart_no_background_60: -3762963751701645321
+      weapon_chart_no_background_61: -4284124177139044400
+      weapon_chart_no_background_62: -8797276203647220838
+      weapon_chart_no_background_63: 7034590974017874191
+      weapon_chart_no_background_64: -4815040158721048033
+      weapon_chart_no_background_65: 3736458317158329748
+      weapon_chart_no_background_66: 4174562664329685126
+      weapon_chart_no_background_67: -2722151603379943719
+      weapon_chart_no_background_68: 2664667083970449479
+      weapon_chart_no_background_69: -4906324927346428633
+      weapon_chart_no_background_7: -8475536213921737483
+      weapon_chart_no_background_70: -2878972010924321056
+      weapon_chart_no_background_71: 8604109409113848297
+      weapon_chart_no_background_72: -5442126775227103202
+      weapon_chart_no_background_73: 3401024177301646751
+      weapon_chart_no_background_74: 5652115166263580668
+      weapon_chart_no_background_75: 955428432176783501
+      weapon_chart_no_background_76: 8861135699875901778
+      weapon_chart_no_background_77: -3031337288605766465
+      weapon_chart_no_background_78: -5505442781878382030
+      weapon_chart_no_background_79: -4587164092643654668
+      weapon_chart_no_background_8: -1539361564655230985
+      weapon_chart_no_background_80: -4451834193817310858
+      weapon_chart_no_background_81: 6801321398735756263
+      weapon_chart_no_background_82: -4370284360738683654
+      weapon_chart_no_background_83: 8794075159494193055
+      weapon_chart_no_background_84: -7938176737360382863
+      weapon_chart_no_background_85: -6482084921324541238
+      weapon_chart_no_background_86: 7698611943183481765
+      weapon_chart_no_background_87: 5117289347503598526
+      weapon_chart_no_background_88: -6430047732974266303
+      weapon_chart_no_background_89: 1557462946824571592
+      weapon_chart_no_background_9: 9204509058668221690
+      weapon_chart_no_background_90: -5989430598981393349
+      weapon_chart_no_background_91: -7134597377412513912
+      weapon_chart_no_background_92: -4367575448442020358
+      weapon_chart_no_background_93: 6797273099461062873
+      weapon_chart_no_background_94: -1498301832540593034
+      weapon_chart_no_background_95: 3220982055993684254
+      weapon_chart_no_background_96: 1199442026124673166
+      weapon_chart_no_background_97: -8643755277990298629
+      weapon_chart_no_background_98: -533465702914293849
+      weapon_chart_no_background_99: -5552869281586515625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

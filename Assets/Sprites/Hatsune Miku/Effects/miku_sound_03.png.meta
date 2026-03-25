@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 849fb5f705dfca54c8b162676c2579ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5547803502823207378
+    second: miku_sound_03_0
+  - first:
+      213: 5194641512264687259
+    second: miku_sound_03_1
+  - first:
+      213: -7047771482833380907
+    second: miku_sound_03_2
+  - first:
+      213: -7659406294437397517
+    second: miku_sound_03_3
+  - first:
+      213: -3306665272279979084
+    second: miku_sound_03_4
+  - first:
+      213: -707765900570021414
+    second: miku_sound_03_5
+  - first:
+      213: 6859643507727186722
+    second: miku_sound_03_6
+  - first:
+      213: -7545559780220545290
+    second: miku_sound_03_7
+  - first:
+      213: -935476225553362340
+    second: miku_sound_03_8
+  - first:
+      213: -3489791654643618072
+    second: miku_sound_03_9
+  - first:
+      213: 5657852039408906337
+    second: miku_sound_03_10
+  - first:
+      213: 5266849834373226689
+    second: miku_sound_03_11
+  - first:
+      213: -5376493538840162404
+    second: miku_sound_03_12
+  - first:
+      213: 7369598899093063902
+    second: miku_sound_03_13
+  - first:
+      213: 238033520945038614
+    second: miku_sound_03_14
+  - first:
+      213: 1306436868612577492
+    second: miku_sound_03_15
+  - first:
+      213: -8383790679878416864
+    second: miku_sound_03_16
+  - first:
+      213: 9114177418510375090
+    second: miku_sound_03_17
+  - first:
+      213: -8590354491086801883
+    second: miku_sound_03_18
+  - first:
+      213: 8624391694857471129
+    second: miku_sound_03_19
+  - first:
+      213: -3606846724443501776
+    second: miku_sound_03_20
+  - first:
+      213: -5875076613927182266
+    second: miku_sound_03_21
+  - first:
+      213: -8153863361443092382
+    second: miku_sound_03_22
+  - first:
+      213: 5685978679589756458
+    second: miku_sound_03_23
+  - first:
+      213: 2329410789906782240
+    second: miku_sound_03_24
+  - first:
+      213: 5547437228131150737
+    second: miku_sound_03_25
+  - first:
+      213: -3149283550080236545
+    second: miku_sound_03_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miku_sound_03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e0e829b1e3203b0800000000000000
+      internalID: -5547803502823207378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed80adee2171840800000000000000
+      internalID: 5194641512264687259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 10
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d996935d29413e90800000000000000
+      internalID: -7047771482833380907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 6
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfaa57e8254b590800000000000000
+      internalID: -7659406294437397517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 11
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba1ae447d5c12d0800000000000000
+      internalID: -3306665272279979084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b360d9a28d26f0800000000000000
+      internalID: -707765900570021414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb4e32d69523f50800000000000000
+      internalID: 6859643507727186722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 31
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6da74ab59c84790800000000000000
+      internalID: -7545559780220545290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52911844558403f0800000000000000
+      internalID: -935476225553362340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 30
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee28d4daf4c19fc0800000000000000
+      internalID: -3489791654643618072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 30
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ffa8047ab48e40800000000000000
+      internalID: 5657852039408906337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 32
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c02427f40c971940800000000000000
+      internalID: 5266849834373226689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fcf30cc9bd265b0800000000000000
+      internalID: -5376493538840162404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 31
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed84d852723164660800000000000000
+      internalID: 7369598899093063902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 28
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6158094e93aad4300800000000000000
+      internalID: 238033520945038614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d850230965612210800000000000000
+      internalID: 1306436868612577492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 23
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026cd9ebbcac6ab80800000000000000
+      internalID: -8383790679878416864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 26
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8923ab2101c7e70800000000000000
+      internalID: 9114177418510375090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 33
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f610aa1ee8c880800000000000000
+      internalID: -8590354491086801883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 27
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9940fcf6d8effa770800000000000000
+      internalID: 8624391694857471129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 33
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b83469308e1fdc0800000000000000
+      internalID: -3606846724443501776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 31
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406aa672f8877ea0800000000000000
+      internalID: -5875076613927182266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 32
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ac1a4978a7de80800000000000000
+      internalID: -8153863361443092382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e5465cb77a8ee40800000000000000
+      internalID: 5685978679589756458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281b5c85cab35020800000000000000
+      internalID: 2329410789906782240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19be88474c47cfc40800000000000000
+      internalID: 5547437228131150737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_sound_03_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38c7cfb4f7b44d0800000000000000
+      internalID: -3149283550080236545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miku_sound_03_0: -5547803502823207378
+      miku_sound_03_1: 5194641512264687259
+      miku_sound_03_10: 5657852039408906337
+      miku_sound_03_11: 5266849834373226689
+      miku_sound_03_12: -5376493538840162404
+      miku_sound_03_13: 7369598899093063902
+      miku_sound_03_14: 238033520945038614
+      miku_sound_03_15: 1306436868612577492
+      miku_sound_03_16: -8383790679878416864
+      miku_sound_03_17: 9114177418510375090
+      miku_sound_03_18: -8590354491086801883
+      miku_sound_03_19: 8624391694857471129
+      miku_sound_03_2: -7047771482833380907
+      miku_sound_03_20: -3606846724443501776
+      miku_sound_03_21: -5875076613927182266
+      miku_sound_03_22: -8153863361443092382
+      miku_sound_03_23: 5685978679589756458
+      miku_sound_03_24: 2329410789906782240
+      miku_sound_03_25: 5547437228131150737
+      miku_sound_03_26: -3149283550080236545
+      miku_sound_03_3: -7659406294437397517
+      miku_sound_03_4: -3306665272279979084
+      miku_sound_03_5: -707765900570021414
+      miku_sound_03_6: 6859643507727186722
+      miku_sound_03_7: -7545559780220545290
+      miku_sound_03_8: -935476225553362340
+      miku_sound_03_9: -3489791654643618072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

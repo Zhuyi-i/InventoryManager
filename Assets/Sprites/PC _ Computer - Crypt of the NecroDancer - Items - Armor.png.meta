@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: db8933f59ca1b274e96ddc893d821ccd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2970952029389665316
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_0
+  - first:
+      213: -6210670005911955096
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_1
+  - first:
+      213: 7009938742990989303
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_2
+  - first:
+      213: 1878429315888939644
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_3
+  - first:
+      213: -5059901444251255747
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_4
+  - first:
+      213: 4394299447812294342
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_5
+  - first:
+      213: -5461083927200565510
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_6
+  - first:
+      213: 4733848918538085706
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_7
+  - first:
+      213: 5786213704932421364
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_8
+  - first:
+      213: 5814012905680523623
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_9
+  - first:
+      213: 1283036426942274774
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_10
+  - first:
+      213: 3546092468176597832
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_11
+  - first:
+      213: -651984246805894178
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_12
+  - first:
+      213: -6380957655054351528
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_13
+  - first:
+      213: -1058185825087245264
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_14
+  - first:
+      213: 3964527997823633871
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_15
+  - first:
+      213: -4270569652751638717
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_16
+  - first:
+      213: 5893154123691226578
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_17
+  - first:
+      213: 4971907660285092731
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_18
+  - first:
+      213: 3615457371060955769
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_19
+  - first:
+      213: -7796059156302681551
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_20
+  - first:
+      213: 3058275508779306278
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_21
+  - first:
+      213: 5628278816021281922
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_22
+  - first:
+      213: 3695368755829167566
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_23
+  - first:
+      213: -3199854558011318680
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_24
+  - first:
+      213: 8778456782536289252
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_25
+  - first:
+      213: 7752779024594789262
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_26
+  - first:
+      213: 3755492357572646957
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_27
+  - first:
+      213: 7571769757682219794
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_28
+  - first:
+      213: -7620138531910690019
+    second: PC _ Computer - Crypt of the NecroDancer - Items - Armor_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243f744121fa3920800000000000000
+      internalID: 2970952029389665316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d17009844fc9a0800000000000000
+      internalID: -6210670005911955096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7e931852e484160800000000000000
+      internalID: 7009938742990989303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c728d3da285811a10800000000000000
+      internalID: 1878429315888939644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfae8e17e97c9b0800000000000000
+      internalID: -5059901444251255747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c60c87d010bbfc30800000000000000
+      internalID: 4394299447812294342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 26
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af67d9e2a155634b0800000000000000
+      internalID: -5461083927200565510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 26
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4564d9a28202b140800000000000000
+      internalID: 4733848918538085706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 28
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe6efc35b2cc4050800000000000000
+      internalID: 5786213704932421364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761df9a0fe58fa050800000000000000
+      internalID: 5814012905680523623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 26
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd7cd15d24ec110800000000000000
+      internalID: 1283036426942274774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 27
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ba52df40463130800000000000000
+      internalID: 3546092468176597832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 26
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbebf928cfa3f6f0800000000000000
+      internalID: -651984246805894178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 26
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8530dab02d84277a0800000000000000
+      internalID: -6380957655054351528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 26
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034325d39919051f0800000000000000
+      internalID: -1058185825087245264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94e548535d40730800000000000000
+      internalID: 3964527997823633871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fdc2bf683ebb4c0800000000000000
+      internalID: -4270569652751638717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d57e35c370b8c150800000000000000
+      internalID: 5893154123691226578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73265bbca3cff440800000000000000
+      internalID: 4971907660285092731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae7aec25fac2230800000000000000
+      internalID: 3615457371060955769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aa5aca085dec390800000000000000
+      internalID: -7796059156302681551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d411e2f5d217a20800000000000000
+      internalID: 3058275508779306278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cfdc563c9ab1e40800000000000000
+      internalID: 5628278816021281922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55645fd46984330800000000000000
+      internalID: 3695368755829167566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e12d8ab35d793d0800000000000000
+      internalID: -3199854558011318680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba137fee753d970800000000000000
+      internalID: 8778456782536289252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8362176277679b60800000000000000
+      internalID: 7752779024594789262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28dfc9d6603e1430800000000000000
+      internalID: 3755492357572646957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb1b74a74541960800000000000000
+      internalID: 7571769757682219794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Crypt of the NecroDancer - Items - Armor_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b5232e064df3690800000000000000
+      internalID: -7620138531910690019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_0: 2970952029389665316
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_1: -6210670005911955096
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_10: 1283036426942274774
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_11: 3546092468176597832
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_12: -651984246805894178
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_13: -6380957655054351528
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_14: -1058185825087245264
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_15: 3964527997823633871
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_16: -4270569652751638717
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_17: 5893154123691226578
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_18: 4971907660285092731
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_19: 3615457371060955769
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_2: 7009938742990989303
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_20: -7796059156302681551
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_21: 3058275508779306278
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_22: 5628278816021281922
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_23: 3695368755829167566
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_24: -3199854558011318680
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_25: 8778456782536289252
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_26: 7752779024594789262
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_27: 3755492357572646957
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_28: 7571769757682219794
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_29: -7620138531910690019
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_3: 1878429315888939644
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_4: -5059901444251255747
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_5: 4394299447812294342
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_6: -5461083927200565510
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_7: 4733848918538085706
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_8: 5786213704932421364
+      PC _ Computer - Crypt of the NecroDancer - Items - Armor_9: 5814012905680523623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

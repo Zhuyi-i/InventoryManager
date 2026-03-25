@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 83ec3c2cd5e017a44b16cc86b97e9789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5075897728745681521
+    second: miku_dz_loving_02_0
+  - first:
+      213: 2794204466297862713
+    second: miku_dz_loving_02_1
+  - first:
+      213: 1635342005467131227
+    second: miku_dz_loving_02_2
+  - first:
+      213: -7321344374812589571
+    second: miku_dz_loving_02_3
+  - first:
+      213: -7989978190895102843
+    second: miku_dz_loving_02_4
+  - first:
+      213: -4964216964952450517
+    second: miku_dz_loving_02_5
+  - first:
+      213: -8103015596997812451
+    second: miku_dz_loving_02_6
+  - first:
+      213: -5267327191803235522
+    second: miku_dz_loving_02_7
+  - first:
+      213: 3610872142973066222
+    second: miku_dz_loving_02_8
+  - first:
+      213: -754087086246326947
+    second: miku_dz_loving_02_9
+  - first:
+      213: 5231271490965581966
+    second: miku_dz_loving_02_10
+  - first:
+      213: 2155798883000395718
+    second: miku_dz_loving_02_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miku_dz_loving_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 1024
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc6e1b8e9ce89b0800000000000000
+      internalID: -5075897728745681521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7e73682207c620800000000000000
+      internalID: 2794204466297862713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 81
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5da42ab3e6e1b610800000000000000
+      internalID: 1635342005467131227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1cdfcc41c556a90800000000000000
+      internalID: -7321344374812589571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 81
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58444980b25ed1190800000000000000
+      internalID: -7989978190895102843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 81
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9a00d8fe8b1bb0800000000000000
+      internalID: -4964216964952450517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 81
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fde730f3e4c8f80800000000000000
+      internalID: -8103015596997812451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 81
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ffc893d1b6e6b0800000000000000
+      internalID: -5267327191803235522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 81
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb534335156c1230800000000000000
+      internalID: 3610872142973066222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 81
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d04965ac1f885f0800000000000000
+      internalID: -754087086246326947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 81
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b1ae54b5399840800000000000000
+      internalID: 5231271490965581966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_loving_02_11
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 81
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c72c6489afeaed10800000000000000
+      internalID: 2155798883000395718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miku_dz_loving_02_0: -5075897728745681521
+      miku_dz_loving_02_1: 2794204466297862713
+      miku_dz_loving_02_10: 5231271490965581966
+      miku_dz_loving_02_11: 2155798883000395718
+      miku_dz_loving_02_2: 1635342005467131227
+      miku_dz_loving_02_3: -7321344374812589571
+      miku_dz_loving_02_4: -7989978190895102843
+      miku_dz_loving_02_5: -4964216964952450517
+      miku_dz_loving_02_6: -8103015596997812451
+      miku_dz_loving_02_7: -5267327191803235522
+      miku_dz_loving_02_8: 3610872142973066222
+      miku_dz_loving_02_9: -754087086246326947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

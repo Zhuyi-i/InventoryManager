@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32ca19ea2db1e904c99dc4b086f43c0b, type: 3}
+  m_Name: TutorialChest
+  m_EditorClassIdentifier: Assembly-CSharp::ChestData
+  defaultLoot:
+  - item: {fileID: 11400000, guid: e323bfd07c28ff74e89064752bb26d0a, type: 2}
+    quantity: 1
+  - item: {fileID: 11400000, guid: 6830a217f19b4884c807daa6c6108cb1, type: 2}
+    quantity: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e524d9d3021bb1443aa6b39f9cbdd495, type: 3}
+  m_Name: CookedChiken
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemID: cooked_chicken
+  displayName: Cooked Chicken
+  description: Cooked chicken, yummy !
+  icon: {fileID: -3129763608801582957, guid: c2545220eedba6144a7eb0a8c74069fa, type: 3}
+  itemType: 0
+  weaponType: 0
+  isStackable: 1
+  maxStackSize: 25
+  bonusHP: 0
+  bonusAttack: 0
+  bonusDefense: 50
+  bonusSpeed: 0

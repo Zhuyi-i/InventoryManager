@@ -1,0 +1,85 @@
+{
+    "playerName": "Player1",
+    "isNewGame": false,
+    "lastSaved": "03/24/2026 20:30",
+    "currentHP": 100,
+    "maxHP": 150,
+    "currentMapID": 0,
+    "currentSceneName": "TestScene",
+    "spawnDoorID": 1,
+    "playerX": 43.65827941894531,
+    "playerY": 1.0014894008636475,
+    "hasPositionSave": true,
+    "inventorySlots": [
+        {
+            "slotIndex": 0,
+            "itemID": "mystery_orb",
+            "quantity": 1
+        },
+        {
+            "slotIndex": 1,
+            "itemID": "mystery_orb",
+            "quantity": 1
+        },
+        {
+            "slotIndex": 2,
+            "itemID": "curse_bow",
+            "quantity": 1
+        },
+        {
+            "slotIndex": 3,
+            "itemID": "iron_sword",
+            "quantity": 1
+        },
+        {
+            "slotIndex": 4,
+            "itemID": "cooked_chicken",
+            "quantity": 5
+        },
+        {
+            "slotIndex": 5,
+            "itemID": "old_key",
+            "quantity": 1
+        },
+        {
+            "slotIndex": 6,
+            "itemID": "iron_chest",
+            "quantity": 1
+        },
+        {
+            "slotIndex": 7,
+            "itemID": "gold_coin",
+            "quantity": 75
+        }
+    ],
+    "equipment": {
+        "helmetItemID": "leather_helmet",
+        "chestItemID": "karate_outfit",
+        "glovesItemID": "iron_gloves",
+        "bootsItemID": "leather_boots",
+        "weaponItemID": "fake_sword",
+        "weaponType": "Melee"
+    },
+    "chestStates": [
+        {
+            "chestUID": "0_chest_03",
+            "isOpened": true,
+            "remainingItems": []
+        },
+        {
+            "chestUID": "0_chest_02",
+            "isOpened": true,
+            "remainingItems": []
+        },
+        {
+            "chestUID": "3_chest_01",
+            "isOpened": true,
+            "remainingItems": []
+        },
+        {
+            "chestUID": "1_chest_04",
+            "isOpened": true,
+            "remainingItems": []
+        }
+    ]
+}

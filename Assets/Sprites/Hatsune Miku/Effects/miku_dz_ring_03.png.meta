@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 50527cde73e2b5148b9ea3df46951c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8590605835248993051
+    second: miku_dz_ring_03_0
+  - first:
+      213: 4842473878181565396
+    second: miku_dz_ring_03_1
+  - first:
+      213: -3632544535384983040
+    second: miku_dz_ring_03_2
+  - first:
+      213: -3517304910293877935
+    second: miku_dz_ring_03_3
+  - first:
+      213: -2456815838978388906
+    second: miku_dz_ring_03_4
+  - first:
+      213: 771115284567157184
+    second: miku_dz_ring_03_5
+  - first:
+      213: -8395821886587414220
+    second: miku_dz_ring_03_6
+  - first:
+      213: -3091523916628373663
+    second: miku_dz_ring_03_7
+  - first:
+      213: 6897829192844032825
+    second: miku_dz_ring_03_8
+  - first:
+      213: 7642029384255267749
+    second: miku_dz_ring_03_9
+  - first:
+      213: 8120770225657834633
+    second: miku_dz_ring_03_10
+  - first:
+      213: 8809486755930229360
+    second: miku_dz_ring_03_11
+  - first:
+      213: 1136403675772901745
+    second: miku_dz_ring_03_12
+  - first:
+      213: 3099136357975554270
+    second: miku_dz_ring_03_13
+  - first:
+      213: 6478762498255079846
+    second: miku_dz_ring_03_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miku_dz_ring_03_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 409
+        width: 125
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf590028908c880800000000000000
+      internalID: -8590605835248993051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 463
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3de1fe55ce33340800000000000000
+      internalID: 4842473878181565396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 465
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a7799bdfb969dc0800000000000000
+      internalID: -3632544535384983040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 307
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b323fc1d5003fc0800000000000000
+      internalID: -3517304910293877935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 318
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc32fd203a7edd0800000000000000
+      internalID: -2456815838978388906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 275
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9ef79044d83ba00800000000000000
+      internalID: 771115284567157184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 296
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439d1842a7c0c7b80800000000000000
+      internalID: -8395821886587414220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fcdbe9063b815d0800000000000000
+      internalID: -3091523916628373663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 253
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb9c8ca130abf50800000000000000
+      internalID: 6897829192844032825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 253
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e1ab5c31fd0a60800000000000000
+      internalID: 7642029384255267749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 191
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c67ea9e75c2b070800000000000000
+      internalID: 8120770225657834633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 203
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07acab4a785914a70800000000000000
+      internalID: 8809486755930229360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 23
+        width: 116
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17954e74f1155cf00800000000000000
+      internalID: 1136403675772901745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 77
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed871aff818520b20800000000000000
+      internalID: 3099136357975554270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miku_dz_ring_03_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 19
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9cd9c8a2039e950800000000000000
+      internalID: 6478762498255079846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miku_dz_ring_03_0: -8590605835248993051
+      miku_dz_ring_03_1: 4842473878181565396
+      miku_dz_ring_03_10: 8120770225657834633
+      miku_dz_ring_03_11: 8809486755930229360
+      miku_dz_ring_03_12: 1136403675772901745
+      miku_dz_ring_03_13: 3099136357975554270
+      miku_dz_ring_03_14: 6478762498255079846
+      miku_dz_ring_03_2: -3632544535384983040
+      miku_dz_ring_03_3: -3517304910293877935
+      miku_dz_ring_03_4: -2456815838978388906
+      miku_dz_ring_03_5: 771115284567157184
+      miku_dz_ring_03_6: -8395821886587414220
+      miku_dz_ring_03_7: -3091523916628373663
+      miku_dz_ring_03_8: 6897829192844032825
+      miku_dz_ring_03_9: 7642029384255267749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
