@@ -51,5 +51,9 @@ public class MainMenu : MonoBehaviour
         mainMenuUI.SetActive(true);
         optionsButton.gameObject.SetActive(true); // Restore options button
     }
+    public void StartGame()
+    {
+        SceneTransitionManager.Instance.GoToGame();
+    }
 
 }

@@ -322,7 +322,7 @@ public class SettingMenu : MonoBehaviour
         if (Time.timeScale != 1f)
             Time.timeScale = 1f;
 
-        SceneManager.LoadScene("MainMenu");
+        SceneTransitionManager.Instance.GoToMainMenu();
     }
 
     public void OnManualSave()

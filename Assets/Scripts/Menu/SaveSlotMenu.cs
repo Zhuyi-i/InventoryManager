@@ -1,7 +1,8 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
+﻿using System;
 using TMPro;
-using System;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class SaveSlotMenu : MonoBehaviour
 {
@@ -155,7 +156,13 @@ public class SaveSlotMenu : MonoBehaviour
 
     void LoadGameScene()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(gameSceneName);
+        if (SceneTransitionManager.Instance != null)
+            SceneTransitionManager.Instance.TransitionToScene(gameSceneName);
+        else
+        {
+            Debug.LogWarning("SceneTransitionManager not found — loading scene directly.");
+            SceneManager.LoadScene(gameSceneName);
+        }
     }
 
     public void OpenSaveSlotMenu()
